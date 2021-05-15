@@ -34,10 +34,10 @@ correlacion tipo de ladrillo utilizado - destr
 correlacion superestructura - danio
 correlacion superestructura - tipo de danio
 
-
 Correlaciones finales
 correlacion danio - columnas (covarianza)
 
 
-densidad destr - ubicacion geografica
+
+densidad destr - ubicacion geografica (Vemos que hacemos)
 
