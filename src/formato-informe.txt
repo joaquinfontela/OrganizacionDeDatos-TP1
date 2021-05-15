@@ -1,0 +1,43 @@
+Introduccion
+densidad de tipo de danio general
+frecuencia de grado de danio (como el de arriba pero de barras)
+
+
+Danio Social
+familias afectadas por tipo de danio
+correlacion uso secundario - danio
+correlacion uso secundario - tipo de danio
+
+
+Correlacion Caracteristicas Principales
+longevidad - destr
+longevidad - tipo destr
+
+altura - destr
+altura - tipo destr
+
+cantidad de pisos - destr
+altura por piso - destr
+
+area - destr
+area - tipo destr
+
+
+Posicion
+correlacion destr - ubicacion geografica
+posicion - destr    (graf de torta)
+
+
+Material
+correlacion tipo de hormigon utilizado - destr
+correlacion tipo de ladrillo utilizado - destr
+correlacion superestructura - danio
+correlacion superestructura - tipo de danio
+
+
+Correlaciones finales
+correlacion danio - columnas (covarianza)
+
+
+densidad destr - ubicacion geografica
+
